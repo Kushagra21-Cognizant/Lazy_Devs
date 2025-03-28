@@ -1,0 +1,14 @@
+C:\Users\2401673\Music\CsharpLearning\demos\MatrixMultiplication\bin\Debug\net8.0\MatrixMultiplication.exe
+C:\Users\2401673\Music\CsharpLearning\demos\MatrixMultiplication\bin\Debug\net8.0\MatrixMultiplication.deps.json
+C:\Users\2401673\Music\CsharpLearning\demos\MatrixMultiplication\bin\Debug\net8.0\MatrixMultiplication.runtimeconfig.json
+C:\Users\2401673\Music\CsharpLearning\demos\MatrixMultiplication\bin\Debug\net8.0\MatrixMultiplication.dll
+C:\Users\2401673\Music\CsharpLearning\demos\MatrixMultiplication\bin\Debug\net8.0\MatrixMultiplication.pdb
+C:\Users\2401673\Music\CsharpLearning\demos\MatrixMultiplication\obj\Debug\net8.0\MatrixMultiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2401673\Music\CsharpLearning\demos\MatrixMultiplication\obj\Debug\net8.0\MatrixMultiplication.AssemblyInfoInputs.cache
+C:\Users\2401673\Music\CsharpLearning\demos\MatrixMultiplication\obj\Debug\net8.0\MatrixMultiplication.AssemblyInfo.cs
+C:\Users\2401673\Music\CsharpLearning\demos\MatrixMultiplication\obj\Debug\net8.0\MatrixMultiplication.csproj.CoreCompileInputs.cache
+C:\Users\2401673\Music\CsharpLearning\demos\MatrixMultiplication\obj\Debug\net8.0\MatrixMultiplication.dll
+C:\Users\2401673\Music\CsharpLearning\demos\MatrixMultiplication\obj\Debug\net8.0\refint\MatrixMultiplication.dll
+C:\Users\2401673\Music\CsharpLearning\demos\MatrixMultiplication\obj\Debug\net8.0\MatrixMultiplication.pdb
+C:\Users\2401673\Music\CsharpLearning\demos\MatrixMultiplication\obj\Debug\net8.0\MatrixMultiplication.genruntimeconfig.cache
+C:\Users\2401673\Music\CsharpLearning\demos\MatrixMultiplication\obj\Debug\net8.0\ref\MatrixMultiplication.dll
